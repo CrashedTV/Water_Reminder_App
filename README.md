@@ -21,8 +21,8 @@ A modern desktop application that helps you stay hydrated by sending regular wat
 ### Option 1: Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/water-reminder-app.git
-cd water-reminder-app
+git clone https://github.com/CrashedTV/Water_Reminder_App.git
+cd Water_Reminder_App
 
 # Install dependencies
 pip install -r requirements.txt

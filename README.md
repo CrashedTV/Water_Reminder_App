@@ -59,7 +59,7 @@ dist/WaterReminder.exe
 ```bash
 # Create standalone executable
 create_exe.bat
-# Share: dist/WaterReminder.exe
+# Share: Application/WaterReminder.exe
 ```
 
 ### For Developers (Python Required)
